@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV/Bio"
-    url: /files/lantaoyu_cv.pdf
+    url: /files/HaiqiangWang_CV.pdf
 
   - title: "Publications"
     url: /publications/
@@ -10,19 +10,19 @@ main:
   #   url: /awards/
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/
 
   # - title: "Teaching"
-  #   url: /teaching/    
-    
+  #   url: /teaching/
+
   # - title: "Portfolio"
   #   url: /portfolio/
-        
+
   # - title: "Blogs"
   #   url: /year-archive/
-    
+
   - title: "Contact"
-    url: /contact/  
-    
+    url: /contact/
+
   # - title: "Guide"
     # url: /markdown/
