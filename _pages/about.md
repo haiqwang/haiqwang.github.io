@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://haiqwang.github.io/files/HaiqiangWang.jpg" alt="Photo" style="width: 450px;"/>
+  <img src="https://i.loli.net/2020/06/12/mpC1tezlGnWgSDM.jpg" alt="Photo" style="width: 450px;"/>
 </p>
 
 # About Me
